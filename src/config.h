@@ -36,7 +36,7 @@
  * CAN_50KBPS, CAN_80KBPS, CAN_83K3BPS, CAN_95KBPS, CAN_100KBPS, CAN_125KBPS,
  * CAN_200KBPS, CAN_250KBPS, CAN_500KBPS or CAN_1000KBPS
  */
-#define CAN_KBPS CAN_500KBPS
+#define CAN_KBPS CAN_125KBPS
 
 /**
  * Set multiple bitrates to let the bootloader try to detect the bitrate used on
